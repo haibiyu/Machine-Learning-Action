@@ -4,7 +4,7 @@
 """
 # File       : 调用sklearn里的MiniBatchK-Means算法.py
 # Time       ：2020/3/12 21:48
-# Author     ：Yan You Fei
+# Author     ：haibiyu
 # version    ：python 3.6
 # Description：
 """

@@ -4,7 +4,7 @@
 """
 # File       : 调用sklearn里的K-Means算法.py
 # Time       ：2020/3/6 15:48 
-# Author     ：Yan You Fei
+# Author     ：haibiyu
 # version    ：python 3.6
 # Description：
 """

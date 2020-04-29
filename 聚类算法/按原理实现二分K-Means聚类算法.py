@@ -4,7 +4,7 @@
 """
 # File       : 按原理实现二分K-Means聚类算法.py
 # Time       ：2020/3/7 21:42 
-# Author     ：Yan You Fei
+# Author     ：haibiyu
 # version    ：python 3.6
 # Description：
 """
